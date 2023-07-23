@@ -17,10 +17,9 @@ For this project, I animated images of PacMan using a JavaScript application. Th
 3. Click on the screen to see PacMan in action.
 4. Enjoy playing with PacMan!
 
-## Technologies Used
+## Future Improvements
 
-- HTML
-- JavaScript
+I had some trouble with this assignment when i was trying to get PacMan to walk all the way to the right of the screen.  Ultimately, i was not able to get him to walk all the way there.  I would like to improve that going forward because it would provide uniform experiences across all screen sizes.  Whereas now, PacMan walks to a preset spot but that spot could be just a small amount of one screen while being a much larger proportion of a different screen.
 
 ## License
 
